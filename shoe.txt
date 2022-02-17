@@ -1,2 +1,12 @@
 this is my first Second website , which is called SHOE_STORE.
  it is online website.
+
+the following is the link for my website:
+   https://dashboard.heroku.com/apps/shore-store
+
+the challenge that i got are:
+ 1. back-end design
+ 2. using PHP
+ 3. JAVASCRIPT
+
+i hope to assist me with some of programming language in details
